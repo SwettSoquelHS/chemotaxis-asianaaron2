@@ -7,7 +7,4 @@
  {    
  	//move and show the bacteria   
  }  
- class Bacteria    
- {     
- 	//lots of java!   
- }    
+ 
